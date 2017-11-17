@@ -1,0 +1,1 @@
+# PY2_copy_file_to_clipboard
